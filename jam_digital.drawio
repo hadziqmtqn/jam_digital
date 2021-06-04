@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T04:36:02.578Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="MUjSW9M_RgMEBnetptXW" version="14.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T04:36:19.142Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="GstEl_Z6leTTjMXBulnU" version="14.7.5" type="github">
   <diagram id="Y8UNk4jeRQo-DknL61_6" name="Halaman-1">
     <mxGraphModel dx="1185" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
@@ -138,6 +138,9 @@
               <mxPoint x="190" y="1485" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OQI5x0vY_sA0CNVttXmQ-26" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1460" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
